@@ -1,0 +1,4 @@
+old/
+__pycache__/
+config.py
+printed_IDs.txt
